@@ -10,7 +10,6 @@ package org.example;
 import org.springframework.stereotype.Component;
 
 //------------ This is BEAN Class--------------
-@Component
 public class Student {
 
     private int studentId;
